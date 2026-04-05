@@ -740,6 +740,18 @@
   color: #8b918b;
 }
 
+.transcript-chunk--interim {
+  opacity: 0.78;
+}
+
+.transcript-chunk--interim .transcript-chunk-text {
+  font-style: italic;
+}
+
+.header-right .secondary-button {
+  border-radius: 14px;
+}
+
 
 /* ── Header ──────────────────────────────────────────────────────────────── */
 .live-header {
